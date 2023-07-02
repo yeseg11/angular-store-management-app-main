@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "רק",
+      "company": "כרק",
+      "amount": "2",
+      "price": "444",
+      "status": "במלאי",
+      "id": "LMFLexy"
+    },
+    {
+      "name": "עעע",
+      "company": "ררר",
+      "amount": "1",
+      "price": "1111",
+      "status": "במלאי",
+      "id": "YXztarQ"
+    }
+  ]
+}

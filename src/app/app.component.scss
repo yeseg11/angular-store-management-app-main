@@ -1,0 +1,41 @@
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body {
+  direction: rtl;
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  font-size: large;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.action {
+  display: flex;
+  gap: 5px;
+}
+.table-container{
+  direction: rtl;
+  font-size: large;
+}
+.logoImg{
+  width: 5em;
+  height: 5em;
+  padding-left: 45%;
+}
+.header{
+  background-color: #172547;
+  font-size: large;
+  height: 5em;
+}
+.mat-mdc-cell,.mat-sort-header,.search{
+  font-size: large;
+}
+.addButton{
+  font-size: x-large;
+}
+
